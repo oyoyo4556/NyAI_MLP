@@ -1,0 +1,3 @@
+学習率の調整方法に伴い、SaveManagerCosineを作成。
+trainとevalも修正。
+そのときの重みも置いておく。過学習気味
